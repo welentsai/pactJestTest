@@ -1,4 +1,4 @@
-// src/__tests__/sum.test.ts
+// test/sum.test.ts
 import sum from '../src/sum';
 
 test('adds 1 + 2 to equal 3', () => {
